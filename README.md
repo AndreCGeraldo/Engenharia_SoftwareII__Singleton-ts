@@ -2,12 +2,14 @@
 Singleton é um padrão de projeto de software. Este padrão garante a existência de apenas uma instância de uma classe, mantendo um ponto global de acesso ao seu objeto. Nota linguística: O termo vem do significado em inglês para um conjunto que contenha apenas um elemento.
 
 # Singleton 
-Um padrão de Criação
+Um padrão de Criação.
 
 ## Objetivo:
 1 Garantir que a classe tenha uma única instância.
 
 2 Prover um meio global de acesso a essa instância.
+
+É um dos padrões mais simples, responsável por garantir que exista apenas uma instância de uma classe, garantindo uma declaração única e global de acesso ao objeto. Alguns projetos necessitam que algumas classes tenham apenas uma instância.
 
 ## Desvantagens:
 Uso excessivo.
