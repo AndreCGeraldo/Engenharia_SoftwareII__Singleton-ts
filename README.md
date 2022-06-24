@@ -15,7 +15,7 @@ Uso excessivo.
 Parece com uma variável global.
 
 ## Resumindo:
-Usamos Singleton quando:
+### Usamos Singleton quando:
 
 Queremos ter 1 única instância de uma classe.
 
