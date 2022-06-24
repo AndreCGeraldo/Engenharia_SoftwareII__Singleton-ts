@@ -16,9 +16,14 @@ Parece com uma variável global.
 
 ## Resumindo:
 Usamos Singleton quando:
-*Queremos ter 1 única instância de uma classe.
+
+Queremos ter 1 única instância de uma classe.
+
 Queremos um jeito fácil de acessar essa instância.
-*Instanciação pode ser:
+
+Instanciação pode ser:
+
 - Quando a classe é carregada.
+
 - Tardia, junto com o primeiro uso.
 
