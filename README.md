@@ -5,11 +5,13 @@ Singleton é um padrão de projeto de software. Este padrão garante a existênc
 Um padrão de Criação
 
 ## Objetivo:
-1 Garantir que a classe tenha uma única instância;
+1 Garantir que a classe tenha uma única instância.
+
 2 Prover um meio global de acesso a essa instância.
 
 ## Desvantagens:
-Uso excessivo;
+Uso excessivo.
+
 Parece com uma variável global.
 
 ## Resumindo:
