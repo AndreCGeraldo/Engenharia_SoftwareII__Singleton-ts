@@ -12,9 +12,10 @@ Um padrão de Criação.
 É um dos padrões mais simples, responsável por garantir que exista apenas uma instância de uma classe, garantindo uma declaração única e global de acesso ao objeto. Alguns projetos necessitam que algumas classes tenham apenas uma instância.
 
 ## Desvantagens:
-Uso excessivo.
+Uma das desvantagens do padrão de projeto Singleton é que não é possível inibir o acesso a sua classe. Qualquer parte do código por chamar o método Instance(), pois ele é estático, e ter acesso aos dados da classe.
 
-Parece com uma variável global.
+## Vantagens: 
+Ao utilizar Singleton temos mais controle sobre o acesso às propriedades e métodos de uma classe, e também reduzimos o consumo de memória desnecessário por utilizar várias instancias desnecessárias de uma classe.
 
 ## Resumindo:
 ### Usamos Singleton quando:
